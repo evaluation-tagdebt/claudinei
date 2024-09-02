@@ -2,7 +2,7 @@
 
 TagDebt identifies technical debt in issues, using machine learning (ML), and automate the labeling process to support issue management and prioritization.
 
-The bot analyzes the content of issues (titles, descriptions), identify self-admitted technical debt, and labels issues using two main tags (stad, and non-satd). Also, TagDebt is able to send email notifications, enabling more efficient issue tracking and management. This bot is particularly useful for large projects where manual issue tracking and categorization can be time-consuming.
+The bot analyzes the content of issues (titles, descriptions), identify self-admitted technical debt, and labels issues using two main tags (stad, and non-satd). Also, TagDebt is able to send email notifications, enabling more efficient issue tracking and management. 
 
 ## Installing the bot on a repository
 
